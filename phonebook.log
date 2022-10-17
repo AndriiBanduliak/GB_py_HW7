@@ -1,0 +1,5 @@
+[18.10.2022 00:57:47 ] [INFO] [main] [<module>: 6] => Start
+[18.10.2022 00:57:50 ] [INFO] [view] [ls_menu: 22] => The user has selected item number 1
+[18.10.2022 00:57:58 ] [WARNING] [view] [\u0441heck_number: 153] => User entered an invalid menu value: {arg}
+[18.10.2022 00:58:24 ] [INFO] [main] [<module>: 6] => Start
+[18.10.2022 00:58:26 ] [INFO] [view] [ls_menu: 22] => The user has selected item number 1
